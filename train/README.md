@@ -25,7 +25,7 @@ The sample dataset is included in this repository and can be downloaded at the f
 
 ### Training in Colab
 
-The following [Google Colaboratory](https://colab.research.google.com)
+The following [Google Colaboratory]([https://colab.research.google.com](https://colab.research.google.com/github/martina-adler/Student-Project---SignGlove/blob/main/Sign_Glove_Train_a_gesture_recognition_model_for_microcontroller_(ESP32)_use.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\))
 notebook demonstrates how to train the model. It's the easiest way to get
 started:
 
